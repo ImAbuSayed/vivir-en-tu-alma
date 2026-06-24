@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-en-tu-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Vivir en tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-alma/) |
+| **Get License** | [Commercial Licensing for Vivir en tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f1e5200d1c24ad7179d991f217af9bdb9bebcebfc88f3a98942b78db4387ab80` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

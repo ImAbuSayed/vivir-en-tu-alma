@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Vivir en tu alma
+
+This log tracks the cryptographic history and versioning for the song **Vivir en tu alma** (vivir-en-tu-alma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T06:14:22.800330 | `v1` | `f1e5200d1c24ad7179d991f217af9bdb9bebcebfc88f3a98942b78db4387ab80` | `4bbd1dfad7cc5bcc21cfc8c02273c79c94414fb6237ca52e52c537db9067d96b` | `2026-06-24_vivir-en-tu-alma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
