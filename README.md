@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-en-tu-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Vivir en tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-alma/) |
+| **Get License** | [Obtain a Music License for Vivir en tu alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Quiero vivir en tu alma, perderme en tu calor,
+> La noche está prendida, baby, puro fuego y sudor.
+> Tú y yo en la disco, robándonos el show,
+> Nadie te lo hace así, sintiendo este dembow.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
